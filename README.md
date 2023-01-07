@@ -15,12 +15,11 @@ energy where such a mechanism could act as a control system to adjust the positi
 maximum efficiency.
 
 <table align="center">
-  <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png" alt="image">
 
     </td>
-  </tr>
+
 </table>
 
 
