@@ -13,9 +13,9 @@ resistance in high light intensity.
 The project serves as a basic framework for large scale applications in the power generation through solar
 energy where such a mechanism could act as a control system to adjust the position of big solar cells for
 maximum efficiency.
-<center>
-![image1](https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png)
-</center>
+
+<img src="[image.jpg](https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png)" alt="image" style="display: block; margin: 0 auto;">
+
 
 # Results 
 
