@@ -29,5 +29,5 @@ of the course we gained better insite in the feedback control. Which helped us t
 may use similar feedback mechanism. We have a greater apprieceiation for modeling systems, as now we have
 detailed knowledge of using different modeling methods to simulate systems.
 
-##https://youtu.be/bfKsQWnzJwM 
-##https://youtube.com/shorts/3KM_Id89vXQ?feature=share
+## https://youtu.be/bfKsQWnzJwM 
+## https://youtube.com/shorts/3KM_Id89vXQ?feature=share
