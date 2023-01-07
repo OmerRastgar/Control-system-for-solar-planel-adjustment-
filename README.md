@@ -15,7 +15,7 @@ energy where such a mechanism could act as a control system to adjust the positi
 maximum efficiency.
 ![image1](https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png)
 
-#Results 
+# Results 
 
 ![videoplayback](https://user-images.githubusercontent.com/62338143/211167285-0e6f9a5d-2a4b-49bb-b709-d4815f1c3d41.gif)
 ![image3](https://user-images.githubusercontent.com/62338143/211170213-5de3be3e-73aa-4249-91b1-9e602345e755.png)
@@ -28,3 +28,6 @@ meaning full experience that we gained. One of the major abilities that we gaine
 of the course we gained better insite in the feedback control. Which helped us to view day to day objects that
 may use similar feedback mechanism. We have a greater apprieceiation for modeling systems, as now we have
 detailed knowledge of using different modeling methods to simulate systems.
+
+https://youtu.be/bfKsQWnzJwM
+https://youtube.com/shorts/3KM_Id89vXQ?feature=share
