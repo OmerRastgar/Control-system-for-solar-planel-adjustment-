@@ -14,7 +14,33 @@ The project serves as a basic framework for large scale applications in the powe
 energy where such a mechanism could act as a control system to adjust the position of big solar cells for
 maximum efficiency.
 
-<img src="https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png" alt="image" style="display: block; margin: 0 auto;">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png" alt="image">
+
+    </td>
+  </tr>
+</table>
+
+
+It is important to note that different Markdown processors may support different methods for centering images, so you may need to experiment with different approaches to find one that works for your specific needs.
+
+
+
+
+Omer Rastgar
+markdown vs html
+Markdown is a lightweight markup language that is used to format text. It was designed to be easy to read and write, and it uses a simple formatting syntax that is based on plain text. HTML (HyperText Markup Language) is a standardized system for displaying and formatting web content. It uses a set of tags and attributes to define the structure and layout of a document, and it is more complex than Markdown.
+
+One of the main differences between Markdown and HTML is the level of complexity. Markdown is much simpler than HTML, and it is easier to learn and use. This makes it a good choice for people who want to format text quickly and easily without having to learn a lot of technical details. HTML, on the other hand, is more powerful and flexible than Markdown, but it is also more complex. It requires a deeper understanding of web technologies and programming concepts to use effectively.
+
+Another difference between Markdown and HTML is the way they are used. Markdown is often used for formatting text within a document or on a website, while HTML is used to define the structure and layout of a web page. Markdown is typically converted into HTML by a Markdown processor, which translates the Markdown syntax into HTML tags and attributes. This allows the formatted text to be displayed correctly on the web.
+
+In summary, Markdown is a simpler and easier-to-use markup language that is mainly used for formatting text, while HTML is a more powerful and flexible markup language that is used to define the structure and layout of a web page.
+
+
+
 
 
 # Results 
