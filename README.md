@@ -14,13 +14,9 @@ The project serves as a basic framework for large scale applications in the powe
 energy where such a mechanism could act as a control system to adjust the position of big solar cells for
 maximum efficiency.
 
-<table align="center">
-    <td>
+<p align="center">
       <img src="https://user-images.githubusercontent.com/62338143/211170038-3885d895-3f52-4365-a719-372bfcf668ac.png" alt="image">
-
-    </td>
-
-</table>
+</p>
 
 
 It is important to note that different Markdown processors may support different methods for centering images, so you may need to experiment with different approaches to find one that works for your specific needs.
